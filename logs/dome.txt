@@ -1,0 +1,357 @@
+8/2/2023 13:20:36 | Powered On
+8/2/2023 13:20:38 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+8/2/2023 13:20:56 | Powered On
+8/2/2023 13:20:59 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+8/2/2023 13:24:7 | Powered On
+8/2/2023 13:24:10 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+8/2/2023 13:32:43 | Powered On
+8/2/2023 13:32:45 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+8/2/2023 13:34:26 | Powered On
+8/2/2023 13:34:28 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+8/2/2023 13:34:35 | Powered On
+8/2/2023 13:34:37 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+8/2/2023 13:37:3 | Powered On
+8/2/2023 13:37:5 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+8/2/2023 13:37:17 | Powered On
+8/2/2023 13:37:19 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+8/2/2023 13:37:45 | Powered On
+8/2/2023 13:37:47 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+8/2/2023 13:37:57 | Powered On
+8/2/2023 13:37:59 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+8/2/2023 13:38:34 | Powered On
+8/2/2023 13:38:36 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+8/2/2023 13:39:4 | Powered On
+8/2/2023 13:39:7 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+8/2/2023 13:40:14 | Powered On
+8/2/2023 13:40:16 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+8/2/2023 13:41:30 | Powered On
+8/2/2023 13:41:32 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+8/2/2023 13:41:42 | Powered On
+8/2/2023 13:41:44 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+8/2/2023 13:42:44 | Powered On
+8/2/2023 13:42:46 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+8/2/2023 13:42:53 | Powered On
+8/2/2023 13:42:55 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+8/2/2023 14:14:13 | Powered On
+8/2/2023 14:14:17 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+1/1/2000 0:0:14 | Ring set to (0,255,120)
+1/1/2000 0:0:18 | Buzzer played at 5000hz freq, 1023 duty, with 1s sound length and 1s quiet length 2 time(s)
+1/1/2000 0:0:43 | Powered On
+1/1/2000 0:0:47 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+1/1/2000 0:0:9 | Ring set to (0,0,120)
+1/1/2000 0:0:13 | Buzzer played at 5000hz freq, 1023 duty, with 1s sound length and 1s quiet length 2 time(s)
+1/1/2000 0:0:35 | Powered On
+1/1/2000 0:0:37 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+1/1/2000 0:0:45 | Powered On
+1/1/2000 0:0:47 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+8/2/2023 14:16:1 | Ring set to (0,0,255)
+8/2/2023 14:16:5 | Buzzer played at 5000hz freq, 1023 duty, with 1s sound length and 1s quiet length 2 time(s)
+8/2/2023 14:19:27 | Powered On
+8/2/2023 14:19:29 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/2/2023 14:19:38 | Powered On
+08/2/2023 14:19:41 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/2/2023 14:19:48 | Powered On
+08/2/2023 14:19:50 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/2/2023 14:20:43 | Powered On
+08/2/2023 14:20:46 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/02/2023 14:20:54 | Powered On
+08/02/2023 14:20:56 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/02/2023 14:21:08 | Ring set to (120,255,0)
+08/02/2023 14:21:12 | Buzzer played at 5000hz freq, 1023 duty, with 1s sound length and 1s quiet length 2 time(s)
+08/02/2023 14:21:55 | Powered On
+08/02/2023 14:21:58 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/02/2023 14:22:33 | Powered On
+08/02/2023 14:22:36 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+01/01/2000 00:00:14 | Ring set to (120,255,0)
+01/01/2000 00:00:19 | Buzzer played at 5000hz freq, 1023 duty, with 1s sound length and 1s quiet length 2 time(s)
+01/01/2000 00:03:40 | Powered On
+01/01/2000 00:03:42 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+01/01/2000 00:04:22 | Powered On
+01/01/2000 00:04:26 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+01/01/2000 06:41:48 | Powered On
+01/01/2000 06:41:52 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+01/01/2000 00:00:09 | Ring set to (120,255,0)
+01/01/2000 00:00:13 | Buzzer played at 5000hz freq, 1023 duty, with 1s sound length and 1s quiet length 2 time(s)
+01/01/2000 00:18:07 | Powered On
+01/01/2000 00:18:10 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+01/01/2000 00:10:57 | Powered On
+01/01/2000 00:10:59 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/02/2023 21:40:02 | Powered On
+08/02/2023 21:40:04 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/02/2023 21:40:40 | Powered On
+08/02/2023 21:40:43 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/02/2023 22:00:48 | Powered On
+08/02/2023 22:00:50 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/02/2023 22:01:57 | Powered On
+08/02/2023 22:01:59 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/02/2023 22:04:43 | Powered On
+08/02/2023 22:04:45 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/02/2023 22:05:06 | Powered On
+08/02/2023 22:05:08 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/02/2023 22:06:31 | Powered On
+08/02/2023 22:06:33 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/02/2023 22:06:42 | Powered On
+08/02/2023 22:06:44 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/02/2023 22:06:58 | Powered On
+08/02/2023 22:06:59 | Powered On
+08/02/2023 22:07:01 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/02/2023 22:07:17 | Powered On
+08/02/2023 22:07:20 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/02/2023 22:07:50 | Powered On
+08/02/2023 22:07:52 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/02/2023 22:09:12 | Powered On
+08/02/2023 22:09:14 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/02/2023 22:10:16 | Ring set to (120,255,0)
+08/02/2023 22:10:20 | Buzzer played at 5000hz freq, 1023 duty, with 1s sound length and 1s quiet length 2 time(s)
+08/02/2023 22:11:23 | Powered On
+08/02/2023 22:11:25 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/02/2023 22:17:38 | Powered On
+08/02/2023 22:17:40 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 20:32:45 | Powered On
+08/03/2023 20:32:48 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+01/01/2000 00:02:33 | Ring set to (120,255,0)
+01/01/2000 00:02:37 | Buzzer played at 5000hz freq, 1023 duty, with 1s sound length and 1s quiet length 2 time(s)
+01/01/2000 00:03:07 | Powered On
+01/01/2000 00:03:11 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+01/01/2000 00:03:42 | Powered On
+01/01/2000 00:03:45 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 20:40:08 | Powered On
+08/03/2023 20:40:11 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 20:41:30 | Powered On
+08/03/2023 20:41:32 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 20:43:56 | Powered On
+08/03/2023 20:44:00 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 20:44:29 | Ring set to (120,255,0)
+08/03/2023 20:44:33 | Buzzer played at 5000hz freq, 1023 duty, with 1s sound length and 1s quiet length 2 time(s)
+08/03/2023 20:45:25 | Powered On
+08/03/2023 20:45:28 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 20:45:33 | Powered On
+08/03/2023 20:45:35 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 20:49:17 | Powered On
+08/03/2023 20:49:19 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 21:04:25 | Powered On
+08/03/2023 21:04:27 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 21:07:02 | Powered On
+08/03/2023 21:07:04 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 21:10:34 | Powered On
+08/03/2023 21:10:36 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 21:11:16 | Powered On
+08/03/2023 21:11:18 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 21:11:20 | Powered On
+08/03/2023 21:11:23 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 21:11:42 | Powered On
+08/03/2023 21:11:44 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 21:12:33 | Powered On
+08/03/2023 21:12:35 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 21:12:38 | Powered On
+08/03/2023 21:12:40 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 21:14:35 | Powered On
+08/03/2023 21:14:37 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 21:14:51 | Powered On
+08/03/2023 21:14:53 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 21:15:18 | Powered On
+08/03/2023 21:15:21 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 21:15:27 | Powered On
+08/03/2023 21:15:29 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 21:37:51 | Powered On
+08/03/2023 21:37:53 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 21:38:07 | Powered On
+08/03/2023 21:38:10 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 21:39:01 | Powered On
+08/03/2023 21:39:03 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 21:40:35 | Powered On
+08/03/2023 21:40:37 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 21:43:35 | Powered On
+08/03/2023 21:43:37 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 21:48:57 | Powered On
+08/03/2023 21:48:59 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 21:56:06 | Powered On
+08/03/2023 21:56:08 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 21:56:20 | Powered On
+08/03/2023 21:56:22 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 22:01:58 | Powered On
+08/03/2023 22:02:00 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 22:02:05 | Powered On
+08/03/2023 22:02:08 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 22:05:49 | Powered On
+08/03/2023 22:05:51 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 22:06:01 | Powered On
+08/03/2023 22:06:03 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 22:10:44 | Powered On
+08/03/2023 22:10:46 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 22:10:54 | Powered On
+08/03/2023 22:10:57 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 22:11:25 | Powered On
+08/03/2023 22:11:28 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 22:11:52 | Powered On
+08/03/2023 22:11:54 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 22:12:52 | Powered On
+08/03/2023 22:12:54 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 22:13:04 | Powered On
+08/03/2023 22:13:06 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 22:13:24 | Powered On
+08/03/2023 22:13:26 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 22:14:04 | Powered On
+08/03/2023 22:14:07 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 22:14:44 | Powered On
+08/03/2023 22:14:47 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 22:15:01 | Powered On
+08/03/2023 22:15:03 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 22:16:29 | Powered On
+08/03/2023 22:16:32 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 22:16:39 | Powered On
+08/03/2023 22:16:42 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 22:17:05 | Powered On
+08/03/2023 22:17:07 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 22:17:25 | Powered On
+08/03/2023 22:17:27 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 22:22:18 | Powered On
+08/03/2023 22:22:20 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 22:22:31 | Powered On
+08/03/2023 22:22:33 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 22:25:28 | Powered On
+08/03/2023 22:25:31 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 22:25:42 | Powered On
+08/03/2023 22:25:44 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 22:26:39 | Powered On
+08/03/2023 22:26:42 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/03/2023 22:26:50 | Powered On
+08/03/2023 22:26:52 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/04/2023 12:13:10 | Powered On
+08/04/2023 12:13:12 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/04/2023 12:13:15 | Powered On
+08/04/2023 12:13:17 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/04/2023 12:13:28 | Ring set to (120,255,0)
+08/04/2023 12:13:32 | Buzzer played at 5000hz freq, 1023 duty, with 1s sound length and 1s quiet length 2 time(s)
+08/04/2023 12:13:48 | Ring set to (250,250,0)
+08/04/2023 12:14:38 | Buzzer played at 20000500hz freq, 512 duty, with 5s sound length and 5s quiet length 5 time(s)
+08/04/2023 12:42:49 | Ring set to (250,250,0)
+08/04/2023 12:43:40 | Buzzer played at 20000500hz freq, 512 duty, with 5s sound length and 5s quiet length 5 time(s)
+08/04/2023 12:44:20 | Ring set to (250,250,0)
+08/04/2023 12:45:10 | Buzzer played at 20000500hz freq, 512 duty, with 5s sound length and 5s quiet length 5 time(s)
+08/04/2023 12:47:11 | Powered On
+08/04/2023 12:47:13 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/04/2023 12:47:21 | Powered On
+08/04/2023 12:47:23 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/04/2023 12:47:52 | Powered On
+08/04/2023 12:47:54 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/04/2023 12:48:02 | Powered On
+08/04/2023 12:48:05 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/04/2023 12:48:16 | Ring set to (120,255,0)
+08/04/2023 12:48:20 | Buzzer played at 5000hz freq, 1023 duty, with 1s sound length and 1s quiet length 2 time(s)
+08/04/2023 12:48:56 | Ring set to (253,88,255)
+08/04/2023 12:49:02 | Buzzer played at 20000500hz freq, 512 duty, with 2s sound length and 1s quiet length 2 time(s)
+08/04/2023 12:49:12 | Ring set to (0,78,247)
+08/04/2023 12:49:18 | Buzzer played at 20000500hz freq, 512 duty, with 2s sound length and 1s quiet length 2 time(s)
+08/04/2023 12:50:18 | Powered On
+08/04/2023 12:50:20 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/04/2023 12:50:28 | Powered On
+08/04/2023 12:50:30 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/04/2023 12:52:24 | Ring set to (100,196,102)
+08/04/2023 12:52:27 | Buzzer played at 20000500hz freq, 1023 duty, with 2s sound length and 1s quiet length 1 time(s)
+08/04/2023 12:52:52 | Ring set to (247,206,70)
+08/04/2023 12:52:52 | Buzzer played at 20000500hz freq, 1023 duty, with 2s sound length and 1s quiet length 0 time(s)
+08/04/2023 12:53:07 | Ring set to (255,255,0)
+08/04/2023 12:53:08 | Buzzer played at 20000500hz freq, 1023 duty, with 2s sound length and 1s quiet length 0 time(s)
+08/04/2023 12:53:18 | Ring set to (255,0,255)
+08/04/2023 12:53:18 | Buzzer played at 20000500hz freq, 1023 duty, with 2s sound length and 1s quiet length 0 time(s)
+08/04/2023 12:54:02 | Ring set to (255,255,255)
+08/04/2023 12:54:03 | Buzzer played at 40000000hz freq, 1023 duty, with 1s sound length and 0s quiet length 1 time(s)
+08/04/2023 12:54:21 | Ring set to (255,255,255)
+08/04/2023 12:54:24 | Buzzer played at 40000000hz freq, 1023 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 12:54:27 | Powered On
+08/04/2023 12:54:30 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/04/2023 12:54:33 | Powered On
+08/04/2023 12:54:35 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/04/2023 12:54:44 | Ring set to (255,255,255)
+08/04/2023 12:54:46 | Buzzer played at 40000000hz freq, 1023 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 12:54:55 | Powered On
+08/04/2023 12:54:57 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/04/2023 12:55:12 | Powered On
+08/04/2023 12:55:15 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/04/2023 12:55:29 | Ring set to (255,255,255)
+08/04/2023 12:55:33 | Buzzer played at 40000000hz freq, 1023 duty, with 1s sound length and 1s quiet length 2 time(s)
+08/04/2023 12:55:46 | Powered On
+08/04/2023 12:55:48 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/04/2023 12:55:53 | Powered On
+08/04/2023 12:55:56 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/04/2023 12:56:18 | Ring set to (255,255,255)
+08/04/2023 12:56:26 | Buzzer played at 20000500hz freq, 1023 duty, with 2s sound length and 2s quiet length 2 time(s)
+08/04/2023 12:56:32 | Ring set to (255,255,255)
+08/04/2023 12:56:40 | Buzzer played at 40000000hz freq, 1023 duty, with 2s sound length and 2s quiet length 2 time(s)
+08/04/2023 12:56:50 | Ring set to (255,255,255)
+08/04/2023 12:56:58 | Buzzer played at 1000hz freq, 1023 duty, with 2s sound length and 2s quiet length 2 time(s)
+08/04/2023 12:57:04 | Ring set to (255,255,255)
+08/04/2023 12:57:12 | Buzzer played at 39238114hz freq, 1023 duty, with 2s sound length and 2s quiet length 2 time(s)
+08/04/2023 12:57:17 | Powered On
+08/04/2023 12:57:19 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/04/2023 12:57:34 | Powered On
+08/04/2023 12:57:36 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/04/2023 12:57:59 | Ring set to (255,255,255)
+08/04/2023 12:58:01 | Buzzer played at 2000500hz freq, 512 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 12:58:06 | Ring set to (255,255,255)
+08/04/2023 12:58:08 | Buzzer played at 4000000hz freq, 512 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 12:58:14 | Ring set to (255,255,255)
+08/04/2023 12:58:16 | Buzzer played at 1000hz freq, 512 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 12:58:22 | Ring set to (255,255,255)
+08/04/2023 12:58:24 | Buzzer played at 4000000hz freq, 512 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 12:58:33 | Ring set to (255,255,255)
+08/04/2023 12:58:35 | Buzzer played at 838886hz freq, 0 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 12:58:41 | Ring set to (255,0,86)
+08/04/2023 12:58:43 | Buzzer played at 838886hz freq, 0 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 12:58:51 | Ring set to (255,0,86)
+08/04/2023 12:58:53 | Buzzer played at 838886hz freq, 134 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 12:58:59 | Ring set to (0,82,233)
+08/04/2023 12:59:01 | Buzzer played at 838886hz freq, 134 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 12:59:13 | Ring set to (224,196,21)
+08/04/2023 12:59:15 | Buzzer played at 838886hz freq, 529 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 12:59:21 | Ring set to (224,196,21)
+08/04/2023 12:59:23 | Buzzer played at 838886hz freq, 309 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 12:59:33 | Ring set to (0,72,219)
+08/04/2023 12:59:35 | Buzzer played at 838886hz freq, 192 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 12:59:47 | Ring set to (33,210,22)
+08/04/2023 12:59:49 | Buzzer played at 838886hz freq, 112 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 12:59:55 | Powered On
+08/04/2023 12:59:57 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/04/2023 13:00:25 | Powered On
+08/04/2023 13:00:27 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/04/2023 13:00:37 | Ring set to (33,210,22)
+08/04/2023 13:00:39 | Buzzer played at 838886hz freq, 1023 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 13:00:45 | Ring set to (33,210,22)
+08/04/2023 13:00:47 | Buzzer played at 1000hz freq, 1023 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 13:00:53 | Ring set to (33,210,22)
+08/04/2023 13:00:55 | Buzzer played at 2467050hz freq, 1023 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 13:01:02 | Ring set to (33,210,22)
+08/04/2023 13:01:04 | Buzzer played at 553243hz freq, 499 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 13:01:15 | Ring set to (33,210,22)
+08/04/2023 13:01:17 | Buzzer played at 1000hz freq, 499 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 13:01:21 | Ring set to (33,210,22)
+08/04/2023 13:01:24 | Buzzer played at 1000hz freq, 1023 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 13:01:28 | Ring set to (33,210,22)
+08/04/2023 13:01:30 | Buzzer played at 1000hz freq, 682 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 13:01:36 | Ring set to (33,210,22)
+08/04/2023 13:01:38 | Buzzer played at 1000hz freq, 945 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 13:01:43 | Ring set to (33,210,22)
+08/04/2023 13:01:45 | Buzzer played at 1000hz freq, 1011 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 13:01:50 | Ring set to (33,210,22)
+08/04/2023 13:01:52 | Buzzer played at 1000hz freq, 967 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 13:02:00 | Ring set to (33,210,22)
+08/04/2023 13:02:02 | Buzzer played at 2124279hz freq, 455 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 13:02:06 | Ring set to (33,210,22)
+08/04/2023 13:02:08 | Buzzer played at 2124279hz freq, 0 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 13:02:18 | Ring set to (33,210,22)
+08/04/2023 13:02:20 | Buzzer played at 2124279hz freq, 265 duty, with 1s sound length and 1s quiet length 1 time(s)
+08/04/2023 16:04:30 | Powered On
+08/04/2023 16:04:34 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/07/2023 20:10:07 | Powered On
+08/07/2023 20:10:10 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/07/2023 20:16:10 | Powered On
+08/07/2023 20:16:12 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/07/2023 20:17:59 | Powered On
+08/07/2023 20:18:02 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/07/2023 20:19:28 | Powered On
+08/07/2023 20:19:31 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
+08/07/2023 20:20:52 | Ring set to (255,21,80)
+08/07/2023 20:20:58 | Buzzer played at 2000500hz freq, 861 duty, with 2s sound length and 1s quiet length 2 time(s)
+08/07/2023 20:23:30 | Powered On
+08/07/2023 20:23:32 | IP Address:192.168.0.127 Subnet Mask:255.255.255.0 Gateway:192.168.0.1 DNS:192.168.0.20
