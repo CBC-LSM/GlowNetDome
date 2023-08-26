@@ -15,7 +15,7 @@
             var red = parseInt(document.getElementById('color').value.substring(1, 3), 16);
             var green = parseInt(document.getElementById('color').value.substring(3, 5), 16);
             var blue = parseInt(document.getElementById('color').value.substring(5, 7), 16);
-            updateRequest.open("GET", "https://192.168.0.127:5000/api/" + red + "/" + green + "/" + blue + "/" + document.getElementById('freq').value + "/" + document.getElementById('duty').value + "/" + document.getElementById('soundLength').value + "/" + document.getElementById('quietLength').value + "/" + document.getElementById('repeat').value);
+            updateRequest.open("GET", "/../api/" + red + "/" + green + "/" + blue + "/" + document.getElementById('freq').value + "/" + document.getElementById('duty').value + "/" + document.getElementById('soundLength').value + "/" + document.getElementById('quietLength').value + "/" + document.getElementById('repeat').value);
             updateRequest.send();
         }
 
